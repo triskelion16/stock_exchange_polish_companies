@@ -1,0 +1,11 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\bin\Debug\Projekt_Giełda.exe.config
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\bin\Debug\Projekt_Giełda.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\bin\Debug\Projekt_Giełda.pdb
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\bin\Debug\MathNet.Numerics.dll
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\bin\Debug\MathNet.Numerics.xml
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.Form1.resources
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\Projekt_Giełda\Projekt_Giełda\obj\Debug\Projekt_Giełda.pdb
